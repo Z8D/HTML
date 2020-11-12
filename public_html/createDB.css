@@ -1,0 +1,16 @@
+.dbtools li {
+  margin-top: 20px;
+}
+
+.dbtools li a {
+  background-color: gray;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.dbtools li a:hover {
+  background-color: black;
+}
